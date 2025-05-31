@@ -380,7 +380,7 @@ ul {
     overflow: hidden;
 }
 
-.icon-text{
+.overlay {
     position: absolute;
     top: 0;
     font-size: 16px;
