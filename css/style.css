@@ -164,6 +164,7 @@ ul {
 .main-sct {
     background-color: #F4F4FD;
     color: #f4f4fd;
+    max-width: 1440px;
 }
 
 .main-section{
@@ -220,7 +221,7 @@ ul {
     width: 264px;
 }
 
-.container.contanier-about{
+.contanier-about{
     display: flex;
     align-items: center;
     justify-content: center;
