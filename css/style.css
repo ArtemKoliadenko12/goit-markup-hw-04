@@ -147,9 +147,10 @@ ul {
      url(../images/people-office.jpg);
      background-size: cover;
      background-position: center;
-     min-width: 1440px;
+     max-width: 1440px;
      background-repeat: no-repeat;
 }
+
 
 .main-head{
     font-weight: 700;
