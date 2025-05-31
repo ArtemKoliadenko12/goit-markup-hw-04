@@ -222,12 +222,6 @@ ul {
     width: 264px;
 }
 
-.contanier-about{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
  .about-container{
     border: 1px solid #8e8f99;
     border-radius: 4px;
@@ -235,6 +229,9 @@ ul {
     height: 112px;
     background-color: #f4f4fd;
     margin-bottom: 8px;
+     display: flex;
+    align-items: center;
+    justify-content: center;
     }
 
 .about-item{
