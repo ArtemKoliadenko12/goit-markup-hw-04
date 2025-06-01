@@ -149,6 +149,7 @@ ul {
      background-position: center;
      max-width: 1440px;
      background-repeat: no-repeat;
+     margin: 0 auto;
 }
 
 
@@ -165,11 +166,6 @@ ul {
 .main-sct {
     background-color: #F4F4FD;
     color: #f4f4fd;
-    max-width: 1440px;
-}
-
-.main-section{
-    text-align: center;
 }
 
 .main-button{
@@ -233,10 +229,6 @@ ul {
     align-items: center;
     justify-content: center;
     }
-
-.about-item{
-   margin: 24px 100px;
-}
 
 .main-text{
     font-size: 16px; 
@@ -316,6 +308,7 @@ ul {
 .social-link{ 
     width: 40px;
     height: 40px;
+    margin-top: 8px;
 }
 
 .social {
